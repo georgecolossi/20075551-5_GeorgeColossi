@@ -31,7 +31,7 @@ $produtos = [
     ],
     '5' => [
         'id' => 5,
-        'nome' => 'Churros de Amendoim Crocante',
+        'nome' => 'Churros de Amendoim',
         'descricao' => 'Uma mistura de cricância e doce em sua boca, você não pode perder essa delícia!',
         'img' => 'produto5.jpg'
     ],
